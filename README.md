@@ -1,4 +1,5 @@
 # Regneklynge
+Obligatorisk oppgave.
 Et program som består av tre klasser som holder oversikt over alle komponenter i en regneklynge. 
 
 - Node-klassen initierer nye node-objekter.
